@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# MVS
 
-You can use the [editor on GitHub](https://github.com/QuintenMadari/zhongwenzuoye/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 1 Sentence structure
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Subject Verb Object
 
-### Markdown
+## 2 Basic Time Phrases
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Wo xihuan mao; I like cats
+- Jintian, wo xihuan mao, time phrase at start
+- Anywhere before the verb is fine, not after
+- ZhōngWǔ, Wǒ Chī Wǔfàn; this afternoon i eat lunch
+- Wo zhongwu chi wufan
+- 'I eat lunch this afternoon' would not be possible
+- Zai 'means' at, but does not apply in time context only in location
+- (Dàjiā hǎo) lit. everyone good, hello everyone
+- 再见Zàijiàn(goodbye) zai(again) jian(see)
 
-```markdown
-Syntax highlighted code block
+## 3 Time phrases using  的时候 (when) De shíhòu
 
-# Header 1
-## Header 2
-### Header 3
+- 作业 zuòyè homework(lit. operation) 做Zuò(do)
+- zhongwu de shihou, the time of noon
+- zhongwu de shihou, wo chi wufan
+- wo zhongwu deshihou chi wufan
+- 'when' comes after the time phrase
 
-- Bulleted
-- List
+## 4 Time phrases using 以后 (after) Yǐhòu
 
-1. Numbered
-2. List
+- wo chi wufan yihou ; after eating lunch
+- yihou comes at the end of the (partial) phrase
+- chi wufan yihou, wo Kànshū (看书) ; after eating lunch, i read (specifically books)
+- wo chi wufan yihou, kanshu ; I after eating lunch read (specifically books)
 
-**Bold** and _Italic_ and `Code` text
+## 5 Sequential Action using 先。。。然后 (First...then) Xiān... Ránhòu
 
-[Link](url) and ![Image](src)
-```
+地铁Dìtiě (subway) 走路Zǒulù (walk) 坐Zuò(sit) 上Shàng(on)学xué(school)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- to take the subway; expressed as Zuò dìtiě; lit. sitting the subway
+- wo xian zoulu, Ránhòu zuo ditie shang xue
+- I first walk, then take the subway to go to school
+- 放Fàng(put)学xué(school), together have meaning Fangxue = Out of school (end of schoolday)
+- 做作业 zuo zuoye (do homework)
+- 晚饭Wǎnfàn(dinner) wan(late)
+- fangxue yihou, wo xian zuo zuoye, ranhou chi wanfan
+- after school, first do homework, then eat dinner
 
-### Jekyll Themes
+## 6 Past Experience Using 过Guò(over)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuintenMadari/zhongwenzuoye/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Guo, present perfect, past experience, voltooid tegenwoordige tijd, het heeft gesneeuwd)
+- wo qu yingguo  meiguo zhongguo
+- wo qu guo yingguo...
+- changes "to go" to "to have gone"
+- Wǒ qùguò yīngguó, měiguó hé zhōngguó ; I have gone to ... and ...
+- 去qù(to go) 和hé (and/with)
+- yingguo england, meiguo us, zhongguo china
+- 我今天吃过午饭 wo jintian chi guo wufan; I today have eaten lunch
 
-### Support or Contact
+回收 Huíshōu (recycling) (lit. return-receive)
+https://www.linguee.com/english-chinese/translation/recyclable+plastic.html
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+塑料 Sùliào (plastic) (lit. 'model/shape/sculpture/plastic'-material)
+
+可 Kě (can)
+
+ke huishou suliao (recyclable plastic)
+
+纸 Zhǐ (paper)
+
+ke huishou zhi
+
+利 lì (profit, benefit, interest)
+
+huishouli (recycling)
